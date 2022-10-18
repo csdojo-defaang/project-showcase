@@ -18,7 +18,7 @@ A website that will curate recently-asked interview questions from FAANG+ to hel
 
 ---
 
-## [Your Project Title](https://your_project_link_here.com)
+## [Your Project Title (Template)](https://your_project_link_here.com)
 
 ### Created by: [your_name_here](https://link_you_want_to_have_here.com)
 
