@@ -18,6 +18,14 @@ A website that will curate recently-asked interview questions from FAANG+ to hel
 
 ---
 
+## [YTpy](https://github.com/cybardev/ytpy)
+
+### Created by: [cybardev](https://github.com/cybardev)
+
+A Python script with minimal dependencies to find and play YouTube videos and music from the terminal without needing API keys.
+
+---
+
 ## [Your Project Title (Template)](https://your_project_link_here.com)
 
 ### Created by: [your_name_here](https://link_you_want_to_have_here.com)
