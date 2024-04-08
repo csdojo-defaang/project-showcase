@@ -18,11 +18,11 @@ A website that will curate recently-asked interview questions from FAANG+ to hel
 
 ---
 
-## [YTpy](https://github.com/cybardev/ytpy)
+## [YTpy](https://github.com/cybardev/resumake)
 
 ### Created by: [cybardev](https://github.com/cybardev)
 
-A Python script with minimal dependencies to find and play YouTube videos and music from the terminal without needing API keys.
+Generate resume using data representation objects in Python.
 
 ---
 
